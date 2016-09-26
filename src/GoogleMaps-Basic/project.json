@@ -1,9 +1,10 @@
-﻿{
+{
   "buildOptions": {
     "emitEntryPoint": true,
     "preserveCompilationContext": true
   },
   "dependencies": {
+    "Google.Apis": "1.16.0",
     "Microsoft.AspNetCore.Authorization": "1.0.0",
     "Microsoft.AspNetCore.Diagnostics": "1.0.0",
     "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "1.0.0",
